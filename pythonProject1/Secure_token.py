@@ -17,3 +17,4 @@ itens= ['banan','wisna']
 random_inems = secrets.choice(itens)
 print(f"Losowy obiekt {random_inems}")
 
+print("sdfsdf")
